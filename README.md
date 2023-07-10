@@ -11,7 +11,7 @@ Team Members:
 
 | Title | Industry |
 |-------|----------|
-| An attention-grabbing title that indicates the topic and its relevance | AI in Healthcare |
+| An attention-grabbing title that indicates the topic and its relevance | AI in Marketing |
 
 An attention-grabbing title that indicates the topic and its relevance.
 
