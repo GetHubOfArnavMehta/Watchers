@@ -1,12 +1,13 @@
 # AIYA
 AI Internship July Business Leaders ideathon
 
-# Team Name: Team Rocket //Replace this with the team's name
+# Team Name: Watchers 
 
 Team Members:
-- Naruto
-- Luffy
-- Son Goku
+- Arnav Mehta
+- Advit Pilla
+- Arhaan Parikh
+- Ali Amr
 
 | Title | Industry |
 |-------|----------|
