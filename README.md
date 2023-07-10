@@ -5,7 +5,7 @@ AI Internship July Business Leaders ideathon
 
 Team Members:
 - Arnav Mehta
-- Advit Pilla
+- Advaith Pillai
 - Arhaan Parikh
 - Ali Amr
 
