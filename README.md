@@ -10,7 +10,7 @@ Team Members:
 - Ali Amr
 
 | Title | Industry |
-|-------|----------|
+|-------|Marketing|
 | An attention-grabbing title that indicates the topic and its relevance | AI in Marketing |
 
 An attention-grabbing title that indicates the topic and its relevance.
