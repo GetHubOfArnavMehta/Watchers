@@ -62,4 +62,6 @@ Which includes:
 
 Predictive analytics in marketing leverages data mining, predictive modeling, and machine learning to predict trends and optimize results. AI plays a key role in enhancing predictive analytics by automating tasks and providing precise insights. However, challenges arise regarding data quality and availability. To tackle this, AI, NLP, and machine learning are employed to identify and rectify data errors. The solution involves implementing data integration and validation systems, bringing benefits like automation, improved data quality, increased availability, and ongoing monitoring. Predictive analytics attracts potential stakeholders, while the solution empowers better decision-making. Ultimately, the combination of AI and data integration overcomes data challenges and propels successful marketing strategies.
 
+#Bibliography
+
 Marinina, M. (2022) Predictive analytics in marketing: Top 7 use cases with Examples & Adoption Guide, Predictive Analytics in Marketing: Top 7 Use Cases With Examples & Adoption Guide. Available at: https://www.itransition.com/predictive-analytics/marketing (Accessed: 10 July 2023).
