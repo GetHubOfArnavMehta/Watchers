@@ -13,7 +13,7 @@ Team Members:
 |-------|-------|
 | Predective Analytics| AI in Marketing |
 
-An attention-grabbing title that indicates the topic and its relevance.
+
 
 # Predictive Analytics
 
