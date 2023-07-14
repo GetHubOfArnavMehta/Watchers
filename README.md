@@ -15,8 +15,10 @@ Team Members:
 
 An attention-grabbing title that indicates the topic and its relevance.
 
-#Predictive Analytics
-##Intro:
+# Predictive Analytics
+
+## Intro:
+
 What are predictive analytics: Predictive analytics in marketing means using data mining, predictive modeling, and machine learning to predict marketing trends, customer behavior, and campaign outcomes.
 
 ##What is the role of A.I in Predictive analytics:
