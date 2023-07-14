@@ -40,12 +40,12 @@ One of the biggest problems that Predictive marketing has is data Quality and av
 AI can provide multiple ways to solve the problem , by using natural language processing(NLP) , in addition to machine learning , to detect and correct data , as well as typos .
 ##The proposed solution:
 We can use data integration and validation systems to solve this problem , and this process requires multiple steps which includes:
-• Data integration
-• Data cleaning and standardization
-• Data validation
-• Anomaly detection
-• Data imputation
-• Continues monitoring
+- Data integration
+- Data cleaning and standardization
+- Data validation
+- Anomaly detection
+- Data imputation
+- Continues monitoring
 
 ## Market target :
 The market target for predictive analytics are potential stakeholder . By having a good prediction that will spike the number of potential stakeholders that might join the firm.It helps businesses make better decisions and work more efficiently. With predictive analytics, businesses can identify patterns and trends in their data and use that information to streamline operations and improve performance.So stakehokders will benefit as due to predective analysis and predecting higher profits more stakeholders will invest and can avail higher dividends as cost of production decreases making goods cheaper and increasing demand.
