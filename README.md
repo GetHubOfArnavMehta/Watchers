@@ -45,7 +45,6 @@ We can use data integration and validation systems to solve this problem , and t
 - Data cleaning and standardization
 - Data validation
 - Anomaly detection
-- Data imputation
 - Continues monitoring
 
 ## Market target :
