@@ -38,7 +38,8 @@ One of the biggest problems that Predictive marketing has is data Quality and av
 
 ### The solution:
 AI can provide multiple ways to solve the problem , by using natural language processing(NLP) , in addition to machine learning , to detect and correct data , as well as typos .
-##The proposed solution:
+
+## The proposed solution:
 We can use data integration and validation systems to solve this problem , and this process requires multiple steps which includes:
 - Data integration
 - Data cleaning and standardization
