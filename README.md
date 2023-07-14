@@ -54,10 +54,10 @@ The market target for predictive analytics are potential stakeholder . By having
 ## Analysis of solution:
 There are many benefits for using Data integration and validation .
 Which includes:
-• Automation: This method pivots on the use of machine learning and natural language processing computerize data integration , cleaning , validation, anomaly detection , and data imputation. Therefore this reduces manual effort , saves time , and increase efficiency in dealing with large and compounded datasets .
-• Data quality improvement: By implementing NLP(natural language processing) methods and machine learning , the problem that affects data quality can be utilized by the use of cleansing and standardizing textual data confirming its accuracy and detecting any outliers , Their purify the quality of the data , and reduces the chance of any misinformation.
-• Data Availability Enhancement: This method helps upgrade the data availability and integrating data from different sources , including structed and unstructured data. NLP methods takeout and change important data from textual sources , enlarging the accessible data for analysis and decision making.
-• Continues monitoring: The suggested system includes a continues monitoring component , securing the data’s quality and availability are consistently examined over time . This enables proactive identification and resolution of data issues , maintaining integrity of the integrated dataset.
+- Automation: This method pivots on the use of machine learning and natural language processing computerize data integration , cleaning , validation, anomaly detection , and data imputation. Therefore this reduces manual effort , saves time , and increase efficiency in dealing with large and compounded datasets .
+- Data quality improvement: By implementing NLP(natural language processing) methods and machine learning , the problem that affects data quality can be utilized by the use of cleansing and standardizing textual data confirming its accuracy and detecting any outliers , Their purify the quality of the data , and reduces the chance of any misinformation.
+- Data Availability Enhancement: This method helps upgrade the data availability and integrating data from different sources , including structed and unstructured data. NLP methods takeout and change important data from textual sources , enlarging the accessible data for analysis and decision making.
+- Continues monitoring: The suggested system includes a continues monitoring component , securing the data’s quality and availability are consistently examined over time . This enables proactive identification and resolution of data issues , maintaining integrity of the integrated dataset.
 
 ## Conclusion:
 
