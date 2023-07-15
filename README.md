@@ -55,7 +55,7 @@ Which includes:
 - Continues monitoring: The suggested system includes a continues monitoring component , securing the data’s quality and availability are consistently examined over time . This enables proactive identification and resolution of data issues , maintaining integrity of the integrated dataset.
 
 ## Target Market:
-The target market for predictive analytics are potential stakeholder . By having a good prediction that will spike the number of potential stakeholders that might join the firm.It helps businesses make better decisions and work more efficiently. With predictive analytics, businesses can identify patterns and trends in their data and use that information to streamline operations and improve performance.So stakehokders will benefit as due to predective analysis and predecting higher profits more stakeholders will invest and can avail higher dividends as cost of production decreases making goods cheaper and increasing demand.
+The target market for predictive analytics are potential shareholders . By having a good prediction that will spike the number of potential shareholders that might join the firm.It helps businesses make better decisions and work more efficiently. With predictive analytics, businesses can identify patterns and trends in their data and use that information to streamline operations and improve performance.So sharehokders will benefit as due to predective analysis and predecting higher profits more shareholders will invest and can avail higher dividends as cost of production decreases making goods cheaper and increasing demand.
 
 
 ## Conclusion:
